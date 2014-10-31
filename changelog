@@ -1,0 +1,5 @@
+python-signalfd (0.2-1) unstable; urgency=low
+
+  * source package automatically created by stdeb 0.6.0+git
+
+ -- Jean-Paul Calderone <exarkun@twistedmatrix.com>  Fri, 31 Oct 2014 13:08:54 -0500
